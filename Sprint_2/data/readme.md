@@ -1,0 +1,1 @@
+cleaned dataset is used for the first step into the sprint 2. Because first we have to understand the data properly and statistical/dynamic analytics data where used from the cleaned dataset to find and analysis the insights of the performance by the interns
