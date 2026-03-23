@@ -1,7 +1,5 @@
 **Intern Performance Analytics and Insights Dashboard**
 
-**Project Overview**
-This project focuses on analyzing intern performance using data analytics techniques. It includes data collection, cleaning, transformation, and visualization to derive meaningful insights.
 
 **Sprint 1 – Data Collection & Preparation**
 
