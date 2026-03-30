@@ -13,3 +13,6 @@ To support the analysis, several DAX (Data Analysis Expressions) measures were c
 * **Top Performer %** – Represents the percentage of interns categorized as top performers
 
 These measures helped in deriving meaningful insights and enabled effective exploratory data analysis.
+
+## Relationship making in Model view tab
+Relation between form_responses and table - Name of the intern is the common column in the two table
